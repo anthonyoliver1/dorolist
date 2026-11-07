@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Doro List</title>
+  <desc>Check claro dentro de um anel de progresso com detalhe terracota e fundo transparente.</desc>
+  <g id="progress-ring" fill="none" stroke="#FAF9F6" stroke-width="64" stroke-linecap="round">
+    <path d="M 519 230 A 278 278 0 1 0 784 444"/>
+  </g>
+  <g id="terracotta-accent" fill="none" stroke="#C47A5B" stroke-width="64" stroke-linecap="round">
+    <path d="M 596 245 A 278 278 0 0 1 740 371"/>
+  </g>
+  <g id="checkmark" fill="none" stroke="#FAF9F6" stroke-width="76" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 396 510 L 475 589 L 632 422"/>
+  </g>
+</svg>
